@@ -1,0 +1,32 @@
+This project redistributes the following libraries:
+
+
+	- Jakarta Commons Library - http://jakarta.apache.org/commons
+ 
+		License information can be found http://www.apache.org/licenses/LICENSE-2.0.txt
+
+
+	- JAXB (http://jaxb.dev.java.net)
+	
+		License information can be found at http://www.opensource.org/licenses/cddl1.php
+
+
+	- Log4j at (http://logging.apache.org/log4j)
+ 
+		License information can be found http://www.apache.org/licenses/LICENSE-2.0.txt
+		
+	- Amazon SQS library
+	
+		License information can be found http://www.apache.org/licenses/LICENSE-2.0.txt
+	
+	- Amazon SimpleDB library
+	
+		License information can be found http://www.apache.org/licenses/LICENSE-2.0.txt
+	
+	- Amazon S3 library
+	
+		License information can be found http://www.opensource.org/licenses/bsd-license.php
+		
+	- Args4j library
+		
+		License information can be found http://www.opensource.org/licenses/mit-license.php

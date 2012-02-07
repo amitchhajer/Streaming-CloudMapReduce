@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/33/trunk/cloudmapreduce-api/src/main/java/com/acnlabs/CloudMapReduce
+END
+SimpleQueueAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/33/trunk/cloudmapreduce-api/src/main/java/com/acnlabs/CloudMapReduce/SimpleQueueAdapter.java
+END
+QueueManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/42/trunk/cloudmapreduce-api/src/main/java/com/acnlabs/CloudMapReduce/QueueManager.java
+END
+Global.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/42/trunk/cloudmapreduce-api/src/main/java/com/acnlabs/CloudMapReduce/Global.java
+END
+DbManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/33/trunk/cloudmapreduce-api/src/main/java/com/acnlabs/CloudMapReduce/DbManager.java
+END
+S3Item.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/33/trunk/cloudmapreduce-api/src/main/java/com/acnlabs/CloudMapReduce/S3Item.java
+END
+S3FileSystem.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/33/trunk/cloudmapreduce-api/src/main/java/com/acnlabs/CloudMapReduce/S3FileSystem.java
+END
+SimpleQueue.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/33/trunk/cloudmapreduce-api/src/main/java/com/acnlabs/CloudMapReduce/SimpleQueue.java
+END

@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 25
+/svn/!svn/ver/2/trunk/lib
+END
+s3.jar
+K 25
+svn:wc:ra_dav:version-url
+V 32
+/svn/!svn/ver/2/trunk/lib/s3.jar
+END
+args4j-2.0.12.jar
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/2/trunk/lib/args4j-2.0.12.jar
+END
+LICENSES.txt
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/2/trunk/lib/LICENSES.txt
+END
+amazon-queue-2008-01-01-java-library.jar
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2/trunk/lib/amazon-queue-2008-01-01-java-library.jar
+END
+amazon-simple-db-2009-04-15-java-library.jar
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2/trunk/lib/amazon-simple-db-2009-04-15-java-library.jar
+END

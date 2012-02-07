@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/33/trunk/cloudmapreduce-api/src/main/java/com/acnlabs/CloudMapReduce/mapreduce
+END
+Mapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/33/trunk/cloudmapreduce-api/src/main/java/com/acnlabs/CloudMapReduce/mapreduce/Mapper.java
+END
+MapReduce.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/42/trunk/cloudmapreduce-api/src/main/java/com/acnlabs/CloudMapReduce/mapreduce/MapReduce.java
+END
+OutputCollector.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/33/trunk/cloudmapreduce-api/src/main/java/com/acnlabs/CloudMapReduce/mapreduce/OutputCollector.java
+END
+Reducer.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/33/trunk/cloudmapreduce-api/src/main/java/com/acnlabs/CloudMapReduce/mapreduce/Reducer.java
+END

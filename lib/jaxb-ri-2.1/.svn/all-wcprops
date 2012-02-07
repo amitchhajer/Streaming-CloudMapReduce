@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/2/trunk/lib/jaxb-ri-2.1
+END
+jaxb-xjc.jar
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/2/trunk/lib/jaxb-ri-2.1/jaxb-xjc.jar
+END
+jaxb-api.jar
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/2/trunk/lib/jaxb-ri-2.1/jaxb-api.jar
+END
+jsr173_1.0_api.jar
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2/trunk/lib/jaxb-ri-2.1/jsr173_1.0_api.jar
+END
+activation.jar
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2/trunk/lib/jaxb-ri-2.1/activation.jar
+END
+jaxb-all-deps.jar
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/lib/jaxb-ri-2.1/jaxb-all-deps.jar
+END
+jaxb-impl.jar
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/2/trunk/lib/jaxb-ri-2.1/jaxb-impl.jar
+END
